@@ -1,7 +1,7 @@
-# PMO-QM-LMS
+# Anforderungen von Herrn Paulus
 Dokumentsmanagement-LernManagementsSystem
 
-Anforderungen von Herrn Paulus: http://moodle.hs-mannheim.de/course/view.php?id=1832
+Quelle: http://moodle.hs-mannheim.de/course/view.php?id=1832
 
 Meetings und Protokolle
 
