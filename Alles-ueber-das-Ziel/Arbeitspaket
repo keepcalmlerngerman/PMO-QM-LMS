@@ -1,0 +1,180 @@
+Aufgaben
+Abkürzungen:
+I Fragebogen:
+a)Erstellung
+Mittel: Themen-Schwerpunkte aus dem Kundengespräch Ziel: Fragebogen und Interviewbogen
+1.0 Themenbereiche
+Teil der Zieldefinition
+Identifizierung der Themen-Schwerpunkte
+Paket 1.0: Erarbeiten der wesentlichen Themenbereiche für Fragebögen und Interviews
+1.1 Ist-Situation
+In diesen Paketen werden themenspezifische Fragen gesammelt, deren tiefere Inhalte in Meetings besprochen werden. Sie sollen die jetzige Situation, deren Probleme und Vorgehensweisen quantifizieren
+Paket 1.1.2: Kalender und Navigation
+Paket 1.1.3: Datenaustausch und Ansicht
+Paket 1.1.4: Text-Editor
+Paket 1.1.5: Online-Prüfungen
+Paket 1.1.6: Weitere Ziele und Ähnliche Konzepte
+1.2 Soll-Situation
+In diesen Paketen werden themenspezifische Fragen gesammelt, deren tiefere Inhalte in Meetings besprochen werden. Sie sollen die zukünftige Situation, Lösungen für Probleme und zukünftige Vorgehensweisen quantifizieren
+Paket 1.2.1: Kalender und Navigation
+Paket 1.2.2: Datenaustausch und Ansicht
+Paket 1.2.3: Text-Editor
+Paket 1.2.4: Online-Prüfungen
+Paket 1.2.5: Weitere Ziele und Ähnliche Konzepte
+Anmerkung: Die Themen sind so gewählt, dass sich Überschneidungen ergeben um ausgewählte Aspekte aus mehreren Methodiken heraus zu bedenken.
+1.3 Fragebogen erstellen
+Diese Arbeitspakete beschäftigen sich mit der Verarbeitung vorhandener Fragen und deren Optimierung
+.Fragen optimieren
+..Fragen zusammentragen
+Paket 1.3.1: Alle Fragen werden gesammelt
+..Fragen filtern nach Aussagekraft und Sinn
+Paket 1.3.2: Doppelte Fragen und sinnlose Fragen filtern
+￼￼￼￼
+Paket 1.3.3: ungenaue Fragen und Fragen mit wenig Aussagekraft werden gesammelt
+..Fragen umformulieren
+Paket 1.3.4: Fragen aus Paket 14 werden zu genauen Fragen mit großer Aussagekraft umformuliert oder gestrichen
+..Fragen katalogisieren
+Paket 1.3.5: Fragen aus Paket 15 werden nach Themen und Zielgruppe geordnet
+.Fragenkataloge erstellen
+..Fragen ordnen
+Paket 1.3.6: Es werden Fragebögen nach Zielgruppe verfasst ..Fragen prüfen
+Paket 1.3.7: Die Dokumente werden geprüft und fertig gestellt
+1.4: Interviewkatalog
+Diese Arbeitspakete erheben auf Grund der Fragen des Fragenkatalogs komplexere Zusammenhänge
+..Bereiche identifizieren
+Paket 1.4.1: Besonders Kritische und Komplexe Zusammenhänge werden aus dem Fragenkatalog erarbeitet
+..Interviewfragen erstellen
+Paket 1.4.2: Auf Grundlage des Fragenkatalogs wird ein Interviewbogen erstellt, der komplexe Zusammenhänge erfasst.
+..Fragen filtern nach Aussagekraft und Sinn
+Paket 1.4.3: Doppelte Fragen und sinnlose Fragen filtern
+Paket 1.4.4: ungenaue Fragen und Fragen mit wenig Aussagekraft werden gesammelt
+..Fragen umformulieren
+Paket 1.4.5: Fragen aus Paket 14 werden zu genauen Fragen mit großer Aussagekraft umformuliert oder gestrichen
+..Fragen katalogisieren
+Paket 1.4.6: Fragen aus Paket 15 werden nach Themen und Zielgruppe geordnet
+b) Auswertung
+Mittel: Ausgefüllte Fragebögen, Notizen aus Interviews, Microsoft Excel oder ähnliche
+Ziel: Quantifizierung der Probleme, Differenzen zwischen verschiedenen Anwendergruppen, Erfassung möglicher Ziele, Gründe der Probleme identifiziert
+1.5 Fragenkatalog und Interviewbögen
+..Bögen auswerten
+Paket 1.5.1: Ausgefüllte Fragebögen und Notizen aus Interviews werden ausgewertet
+Paket 1.5.2: Auswertung wird interpretiert nach Übereinstimmung, wichtigsten Problemen, Differenzen verschiedener Anwendergruppen, Problemgründe werden identifiziert
+Paket 1.5.3: Probleme werden priorisiert und es wird bewertet wie kritisch zum Ziel sie sind. Erstellung einer Zusammenfassung der Aussage der Ergebnisse
+Paket 1.5.4: Darstellung der Ergebnisse in Diagrammen, die die Interpretation unterstützen
+￼￼
+MILESTONE 1: Datenerhebung, Produkt: Zusammenfassung der Umfrageergebnisse
+￼c) Darstellung
+Mittel: UML, BPMN, Auswertung
+Ziel: Darstellung der identifizierten Probleme und Prozesse, Identifizierung problematischer und kritischer Bestandteile des Systems
+1.6 Modellierung und Analyse
+.Identifizierung der Kernprozesse und Auswahl geeigneter Modellierungsinstrumente
+..Datenaustausch
+Paket 1.6.1: Identifizierung der Kernprozesse beim Hochladen einer Datei
+Paket 1.6.2: Identifizierung der Kernprozesse beim Zugriff auf die Datei einer anderen Person
+Paket 1.6.3: Identifizierung der Kernprozesse bei der Veränderung einer Datei
+Paket 1.6.4: Identifizierung der Kernprozesse bei der Suche nach einer Datei
+..Text-Editor
+Paket 1.6.5: Identifizierung der Kernprozesse beim Bearbeiten einer Textdatei
+Paket 1.6.6: Identifizierung der Kernprozesse beim Einfügen einer Tabelle
+Paket 1.6.7: Identifizierung der Kernprozesse beim Einfügen eines Hyperlinks
+Paket 1.6.8: Identifizierung der Kernprozesse beim Einfügen einer Einrückung
+Paket 1.6.9: Identifizierung der Kernprozesse beim Einfügen einer Überschrift
+Paket 1.6.10: Identifizierung der Kernprozesse beim Einfügen eines Bildes
+Paket 1.6.11: Identifizierung der Kernprozesse beim Bearbeiten einer Datei durch mehrere Personen
+..Onlineklausur
+Paket 1.6.12: Identifizierung der Kernprozesse beim Erstellen einer Online-Prüfung
+Paket 1.6.13: Identifizierung der Kernprozesse bei der Auswertung einer Online Klausur
+Paket 1.6.14: Identifizierung der Kernprozesse beim Versuch eines Imports von Fragen
+Paket 1.6.15: Identifizierung der Kernprozesse beim Versuch eines Exports von Fragen
+Paket 1.6.16: Identifizierung der Anzahl der Möglichkeiten einer Fragestellung und deren Auswertung
+..Kalender
+Paket 1.6.17: Identifizierung der Kernprozesse beim Verknüpfen von Daten mit dem Kalender Paket 1.6.18: Identifizierung der Kernprozesse der Kernprozesse des Kalenders
+..Austausch
+Paket 1.6.19: Identifizierung der Kernprozesse eines Forumeintrags am PC und am Mobilgerät Paket 1.6.20: Identifizierung der Kernprozesse der Feedbackfunktion
+Paket 1.6.21: Identifizierung der Kernprozesse des Erstellen eines Verteilers
+..Navigation
+Paket 1.6.22: Identifizierung der Kernprozesse der Navigation zwischen Kursen, Kalender,
+￼
+Kurssuche und der Einstellung des Navigationsblocks
+..Ansicht
+Paket 1.6.23: Identifizierung der Kernprozesse der Ansichtseinstellung Paket 1.6.24: Identifizierung der Kernprozesse der Suche nach Kursen Paket 1.6.25: Identifizierung der Kernprozesse Suche nach einem Skript
+MILESTONE 2: Identifizierung der Kernprozesse, Produkt: Liste Kernprozesse
+1.7 Darstellung der Identifizierte Kernprozesse
+.Modellierung der erarbeiteten Prozesse und Funktionen
+..Datenaustausch
+Paket 1.7.1: Modellierung der Kernprozesse beim Hochladen einer Datei
+Paket 1.7.2: Modellierung der Kernprozesse beim Zugriff auf die Datei einer anderen Person
+Paket 1.7.3: Modellierung der Kernprozesse bei der Veränderung einer Datei
+Paket 1.7.4: Modellierung der Kernprozesse bei der Suche nach einer Datei
+..Text-Editor
+Paket 1.7.5: Modellierung der Kernprozesse beim Bearbeiten einer Textdatei
+Paket 1.7.6: Modellierung der Kernprozesse beim Einfügen einer Tabelle
+Paket 1.7.7: Modellierung der Kernprozesse beim Einfügen eines Hyperlinks
+Paket 1.7.8: Modellierung der Kernprozesse beim Einfügen einer Einrückung
+Paket 1.7.9: Modellierung der Kernprozesse beim Einfügen einer Überschrift
+Paket 1.7.10: Modellierung der Kernprozesse beim Einfügen eines Bildes
+Paket 1.7.11: Modellierung der Kernprozesse beim Bearbeiten einer Datei durch mehrere Personen
+..Onlineklausur
+Paket 1.7.12: Modellierung der Kernprozesse beim Erstellen einer Online-Prüfung
+Paket 1.7.13: Modellierung der Kernprozesse bei der Auswertung einer Online Klausur
+Paket 1.7.14: Modellierung der Kernprozesse beim Versuch eines Imports von Fragen
+Paket 1.7.15: Modellierung der Kernprozesse beim Versuch eines Exports von Fragen
+Paket 1.7.16: Modellierung der Anzahl der Möglichkeiten einer Fragestellung und deren Auswertung
+..Kalender
+Paket 1.7.17: Modellierung der Kernprozesse beim Verknüpfen von Daten mit dem Kalender Paket 1.7.18: Modellierung der Kernprozesse der Kernprozesse des Kalenders
+..Austausch
+Paket 1.7.19: Modellierung der Kernprozesse eines Forumeintrags am PC und am Mobilgerät Paket 1.7.20: Modellierung der Kernprozesse der Feedbackfunktion
+Paket 1.7.21: Modellierung der Kernprozesse des Erstellen eines Verteilers
+￼￼
+..Navigation
+Paket 1.7.22: Modellierung der Kernprozesse der Navigation zwischen Kursen, Kalender, Kurssuche und der Einstellung des Navigationsblocks
+..Ansicht
+Paket 1.7.23: Modellierung der Kernprozesse der Ansichtseinstellung
+Paket 1.7.24: Modellierung der Kernprozesse der Suche nach Kursen
+Paket 1.7.25: Modellierung der Kernprozesse Suche nach einem Skript
+1.8 Verbesserung und Korrektur
+Die folgenden Pakete dienen zur Korrektur durch eine zweite Person. Es wird die Modellierungstechnik und der Realitätsbezug besonders beachtet.
+..Datenaustausch
+Paket 1.8.1: Korrektur der Modelle Hochladen einer Datei
+Paket 1.8.2: Korrektur der Modelle Zugriff auf die Datei einer anderen Person
+Paket 1.8.3: Korrektur der Modelle der Veränderung einer Datei
+Paket 1.8.4: Korrektur der Modelle der Suche nach einer Datei
+..Text-Editor
+Paket 1.8.5: Korrektur der Modelle Bearbeiten einer Textdatei
+Paket 1.8.6: Korrektur der Modelle Einfügen einer Tabelle
+Paket 1.8.7: Korrektur der Modelle Einfügen eines Hyperlinks
+Paket 1.8.8: Korrektur der Modelle Einfügen einer Einrückung
+Paket 1.8.9: Korrektur der Modelle Einfügen einer Überschrift
+Paket 1.8.10: Korrektur der Modelle Einfügen eines Bildes
+Paket 1.8.11: Korrektur der Modelle Bearbeiten einer Datei durch mehrere Personen
+..Onlineklausur
+Paket 1.8.12: Korrektur der Modelle Erstellen einer Online-Prüfung
+Paket 1.8.13: Korrektur der Modelle der Auswertung einer Online Klausur
+Paket 1.8.14: Korrektur der Modelle Versuch eines Imports von Fragen
+Paket 1.8.15: Korrektur der Modelle Versuch eines Exports von Fragen
+Paket 1.8.16: Modellierung der Anzahl der Möglichkeiten einer Fragestellung und deren Auswertung
+..Kalender
+Paket 1.8.17: Korrektur der Modelle Verknüpfen von Daten mit dem Kalender Paket 1.8.18: Korrektur der Modelle der Kernprozesse des Kalenders
+..Austausch
+Paket 1.8.19: Korrektur der Modelle eines Forumeintrags am PC und am Mobilgerät Paket 1.8.20: Korrektur der Modelle der Feedbackfunktion
+Paket 1.8.21: Korrektur der Modelle des Erstellen eines Verteilers
+..Navigation
+￼
+Paket 1.8.22: Korrektur der Modelle der Navigation zwischen Kursen, Kalender, Kurssuche und der Einstellung des Navigationsblocks
+..Ansicht
+Paket 1.8.23: Korrektur der Modelle der Ansichtseinstellung Paket 1.8.24: Korrektur der Modelle der Suche nach Kursen Paket 1.8.25: Korrektur der Modelle Suche nach einem Skript
+MILESTONE: Modelle der Problemprozesse, Produkt: Modelle
+II Analyse
+Mittel: Zusammenfassung der Umfrageergebnisse, Modelle der Prozesse, UML, BPMN
+Ziel: Menge theoretische Lösungen für die gefundenen Probleme
+2.1 Theoretische Lösungen
+In diesen Paketen wird auf Grundlage der bisherigen Arbeit eine Menge von Lösungen erarbeitet, analysiert, gefiltert und eingegrenzt. Diese erfolgen schriftlich oder in Diagrammform.
+Paket 2.1.1: Erstellung der Lösungen für die Probleme des Datenaustauschs Paket 2.1.2: Erstellung der Lösungen für die Probleme des Texteditierens Paket 2.1.3: Erstellung der Lösungen für die Probleme bei der Online-Prüfung Paket 2.1.4: Erstellung der Lösungen für Kalenderprobleme
+Paket 2.1.5: Erstellung der Lösungen für Austauschprobleme Paket 2.1.6: Erstellung der Lösung für Navigationsprobleme Paket 2.1.7: Erstellung der Lösung für Ansichtprobleme Paket 2.1.8: Erstellung der Lösung für zusätzliche Funktionen 2.2 Eingrenzung
+In diesen Paketen erarbeiten 2 Teams parallel die Ideale Lösungsmengen. In dieser Zeit sollen die Teams möglichst nicht kommunizieren.
+Paket 2.2.1: Auswahl der kleinsten Menge Lösungen, die alle Probleme lösen und aus Fragebögen ersichtliche Präferenzen berücksichtigen.
+Paket 2.2.2: Auswahl der kleinsten Menge Lösungen, die alle Probleme lösen und aus Fragebögen ersichtliche Präferenzen berücksichtigen.
+Paket 2.2.3: Abstimmung der Lösungsmengen
+MILESTONE: Lösungen der Probleme des Lernmanagementsystems, Produkt: Lösung in Schrift- oder Modellform
+III Praktische Lösung
+￼￼￼￼
