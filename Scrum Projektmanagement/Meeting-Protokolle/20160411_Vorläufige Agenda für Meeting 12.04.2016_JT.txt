@@ -1,0 +1,19 @@
++------------------------------------------+
+| Vorläufige Agenda für Meeting 12.04.2016 |
++------------------------------------------+
+
+(1 Min.)  1. Vorstellung der Agenda
+(8 Min.)  2. Sprint Review
+             2.1. Demo des fertigen "Produkts" für Kunden
+             2.2. Product Increments und Product Backlog werden aktualisiert
+(5 Min.)  3. Sprint Retrospektive
+             3.1. Offener Meinungsaustausch innerhalb des Teams
+             3.2. Feedback vom Scrum Master
+(5 Min.)  4. Vorstellung einer Möglichkeit "Fragen" direkt in Github zu organisieren
+(8 Min.)  5. Sprint Planning
+             5.1. Teil 1: Product Owner und Team stimmen sich ab
+             5.2. Teil 2: Detailplaung
+(1 Min.)  6. Terminplanung der Daily Scrum Meetings
+(2 Min.)  7. Sonstiges
+--------
+30 Min.
