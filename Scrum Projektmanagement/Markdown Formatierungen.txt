@@ -1,0 +1,6 @@
++-------------------------+
+| Markdown Formatierungen |
++-------------------------+
+
+- https://de.wikipedia.org/wiki/Markdown
+- https://help.github.com/categories/writing-on-github/
