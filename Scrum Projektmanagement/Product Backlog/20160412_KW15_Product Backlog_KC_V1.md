@@ -1,7 +1,7 @@
  ID | Beschreibung | Rang/Prio | Akzeptanzkriterien| Schätzung(Aufwand in PH)| Zugeteilt am | 
 ----|--------------|-------|---------|---------|---------|
- 8|Verbessern der ungenügenden Fragen | 1 | Fragen sin kurz und Präzise| 8 | 20160412 |
- 9|Entfernen der ungenügenden Fragen | 1 | Fragen sin bereit fürs Lime-servey | 4 | 20160412 |
+ 8|Verbessern der ungenügenden Fragen | 1 | Fragen sind kurz und Präzise| 8 | 20160412 |
+ 9|Entfernen der ungenügenden Fragen | 1 | Fragen sind bereit fürs Lime-servey | 4 | 20160412 |
  10|Anlegen der Umfrage im Lime-Survey Umfrageprogramm | 2 | | 4 |  |
  11| Versenden der Umfrege und Zwischenkontrolle | 3 |  | 1 |  |
  12| Auswertung der Ergebnisse | 4 |  | 2 |  |
