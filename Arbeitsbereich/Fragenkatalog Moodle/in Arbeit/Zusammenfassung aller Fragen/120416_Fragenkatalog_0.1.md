@@ -16,37 +16,37 @@ Bewerten Sie auf einer Skala von 1 (sehr gut) - 6(mangelhaft), wie zufrieden Sie
 4. Wie oft kommunizieren Sie mit Dozenten?
 O 2 mal/Woche oder öfter   	  O ca. 1 mal pro Woche         	O 1-2 mal/Monat oder seltener
 
-=======================================================================================================================================
+======================================================================================================================================
 
 II Lehrinhalte:
 
  Wünschen Sie sich eine Plattform für (anonyme) Vorschläge und Kritik schon während des Semesters, um von eventuellen Änderungen schon selbst zu profitieren?    
-O Meldungen bleiben am besten anonym
-O Die Reaktion von den Dozenten auf das Feedback wird gezeigt, z.B. Zurückschreibung, Rechtfertigung etc.
-O Abstimmungsfunktion, z.B du initiatiierst eine Abstimmung für eine Bewegung, um den Dozenten auf eine Änderung aufmerksam zu machen.
-O Sonstiges, z.B____________________________________
+* Meldungen bleiben am besten anonym
+* Die Reaktion von den Dozenten auf das Feedback wird gezeigt, z.B. Zurückschreibung, Rechtfertigung etc.
+* Abstimmungsfunktion, z.B du initiatiierst eine Abstimmung für eine Bewegung, um den Dozenten auf eine Änderung aufmerksam zu machen.
+* Sonstiges, z.B____________________________________
 
 Wie empfangen Sie Ihre Lehrinhalte bevorzugt?
-O Online
-O In Vorlesungen
-O im Selbststudium /* für Dozent wird der Fragebogen umformuliert
-O als Hausarbeit
-O abhängig vom Fach
+* Online
+* In Vorlesungen
+* im Selbststudium /* für Dozent wird der Fragebogen umformuliert
+* als Hausarbeit
+* abhängig vom Fach
 
 Welche Eigenschaften muss eine Hausarbeit Ihrer Meinung nach haben, um einen maximalen Lernerfolg zu erzielen?
-O etwas schwerer als die Klausur
-O etwas leichter als die Klausur
-O geht über das eigene Können hinaus
-O wird betreut
-O ist vom Dozent gut dokumentiert
-O wird als Studienleitung erwartet
-O erfordert Transferleistung und viel Denkaufwand
-O ist wenig aufwändig und folgt dem Vorlesungsschema
-O eine Lösung wird mit der Übung bereitgestellt
-O eine Lösung wird nach der Übung bereitgestellt
-O eine Lösung wird nach der Übung mit dem Dozenten besprochen
+* etwas schwerer als die Klausur
+* etwas leichter als die Klausur
+* geht über das eigene Können hinaus
+* wird betreut
+* ist vom Dozent gut dokumentiert
+* wird als Studienleitung erwartet
+* erfordert Transferleistung und viel Denkaufwand
+* ist wenig aufwändig und folgt dem Vorlesungsschema
+* eine Lösung wird mit der Übung bereitgestellt
+* eine Lösung wird nach der Übung bereitgestellt
+* eine Lösung wird nach der Übung mit dem Dozenten besprochen
 
-=======================================================================================================================================
+======================================================================================================================================
 
 III Planug
 
@@ -158,34 +158,34 @@ IV Führungsaufgaben
 
 Bewerten Sie bitte von 1(auf jeden Fall) bis 6(gar nicht), welche der folgenden Aufgabengebiete ein Dozent gegenüber einem Studenten 
 zu erfüllen hat:
-O Motivation
-O Planung von Arbeitsabläufen
-O Lernziele setzen
-O Ablaufziele setzen
-O Fördern und Entwickeln
-O Organisieren
-O weitere:
+* Motivation
+* Planung von Arbeitsabläufen
+* Lernziele setzen
+* Ablaufziele setzen
+* Fördern und Entwickeln
+* Organisieren
+* weitere:
 _______________________________________________________________________________________________________________________________________
 
 Mit der Erfüllung welcher der von Ihnen gewählten Aufgaben sind Sie in der aktuellen Situation unzufrieden?
 ? (Kurze Begründung)
-_______________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________
 
 Könnten Sie sich vorstellen, dass diese durch Nutzung von Computer- oder Smartphone-Apps gelöst werden können?
 Für welche Bereiche gilt das?
-_______________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________
 
-=======================================================================================================================================
+======================================================================================================================================
 
 V Leistungsbewertung
 
 Welche Form der Lösungsbewertung ist für Sie am besten geeignet?
-O e-Klausur
-O Klausur
-O Continous Assessment
-O mündliche Prüfung
+* e-Klausur
+* Klausur
+* Continous Assessment
+* mündliche Prüfung
 
 Würden Sie Ihre Leistungsbewertung grundsätzlich lieber auf dem Campus oder Mobil durchführen?
-_______________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________
 
 *Alle offenen Fragen sind optional auszufüllen*
