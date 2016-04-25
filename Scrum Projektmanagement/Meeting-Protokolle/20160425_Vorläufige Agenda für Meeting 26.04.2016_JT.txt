@@ -1,0 +1,18 @@
++------------------------------------------+
+| Vorläufige Agenda für Meeting 26.04.2016 |
++------------------------------------------+
+
+(1 Min.)  1. Vorstellung der Agenda
+(10 Min.) 2. Sprint Review
+             2.1. Demo des fertigen "Produkts" für Kunden
+             2.2. Product Increments und Product Backlog werden aktualisiert
+(5 Min.)  3. Sprint Retrospektive
+             3.1. Offener Meinungsaustausch innerhalb des Teams
+             3.2. Feedback vom Scrum Master
+(10 Min.) 4. Sprint Planning
+             4.1. Teil 1: Product Owner und Team stimmen sich ab
+             4.2. Teil 2: Detailplaung
+(1 Min.)  5. Terminplanung der Daily Scrum Meetings
+(3 Min.)  6. Sonstiges
+--------
+30 Min.
