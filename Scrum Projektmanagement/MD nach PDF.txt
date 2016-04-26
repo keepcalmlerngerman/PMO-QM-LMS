@@ -1,0 +1,15 @@
+Zwei Möglichkeiten:
+
+1. https://stackedit.io/editor nutzen und nach HTML ausgeben lassen. Dann HTML in ein PDF drucken.
+
+2. pandoc.exe nutzen, zur Installation wie folgt vorgehen:
+   - https://github.com/jgm/pandoc/releases/ aktuellen Installer downloaden
+   - http://miktex.org/download aktuellen Installer downloaden
+   - Beides installieren, zuerst pandoc und dan miktex
+   
+   Jetzt über die Kommandozeile im entsprechenden Ordner mit den .md-Dateien folgenden Befehl ausführen
+   --> pandoc.exe eingabe.md --read=markdown_github -o ausgabe.pdf
+
+   Anmerkung: Es kann vorkommen, das beim ersten Start von pandoc.exe noch Dateien nachgeladen werden
+              müssen. Dies ist Normal und kann etwas Zeit in Anspruch nehmen. Das Update-Programm
+              benötigt Admin-Rechte. Daher die Admin-Freigabe bestätigen.
