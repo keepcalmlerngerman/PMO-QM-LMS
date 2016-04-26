@@ -4,5 +4,5 @@ ID | Beschreibung |Erledigt|Kommentar|
  9|Verbesserung der Formatierung |Ja||
  10|Verbessern der ungenügenden Fragen | Ja ||
  11|Entfernen der ungenügenden Fragen | Ja ||
- 12|Anlegen der Umfrage im Lime-Survey Umfrageprogramm |  ||
- 13| Versenden der Umfrege und Zwischenkontrolle |  ||
+ 12|Anlegen der Umfrage im Lime-Survey Umfrageprogramm | Ja ||
+ 13| Versenden der Umfrage und Zwischenkontrolle |  ||
