@@ -5,7 +5,7 @@
  10|Verbessern der ungenügenden Fragen | 1 | 
  11|Entfernen der ungenügenden Fragen | 1 | 
  12|Anlegen der Umfrage im Lime-Survey Umfrageprogramm | 2 |  
- 13| Versenden der Umfrege und Zwischenkontrolle | 3 |  
+ 13| Versenden der Umfrage und Zwischenkontrolle | 3 |  
  14| Auswertung der Ergebnisse | 4 |  
  15| Modellierung der Ergebnisse | 5 |  
  16| Interpretation der Auswertung | 6 |  
