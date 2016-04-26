@@ -1,7 +1,7 @@
  ID | Beschreibung | Rang/Prio | 
 ----|--------------|-------|
  13 | Zwischenkontrolle | 1 |
- 14 | Vorbereitung (sehen wie man mit den Anworte eingehen wird) | 2 |
+ 14 | Vorbereitung | 2 |
  15| Versenden der Umfrege und Zwischenkontrolle | 3 |  
  16| Auswertung der Ergebnisse | 4 |  
  17| Modellierung der Ergebnisse | 5 |  
