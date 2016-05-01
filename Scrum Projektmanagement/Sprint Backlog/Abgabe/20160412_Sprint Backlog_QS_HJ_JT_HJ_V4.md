@@ -1,0 +1,8 @@
+-ID | Beschreibung |Erledigt|Kommentar|
+----:|:--------------:|:---------:|:---------:|
+- 8|Inhaltliche Verbesserung des Fragenkatalogs nach Feedbaks (vom Kunde)|Nein|Hausarbeit(Kunde im Meeting)|
+- 9|Verbesserung der Formatierung |Nein||
+- 10|Verbessern der ungenügenden Fragen | Nein ||
+- 11|Entfernen der ungenügenden Fragen | Nein ||
+- 12|Anlegen der Umfrage im Lime-Survey Umfrageprogramm | Nein ||
+- 13| Versenden der Umfrage und Zwischenkontrolle | Nein ||
