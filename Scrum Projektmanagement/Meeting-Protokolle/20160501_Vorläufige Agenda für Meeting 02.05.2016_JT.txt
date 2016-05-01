@@ -1,0 +1,14 @@
++------------------------------------------+
+| Vorläufige Agenda für Meeting 02.05.2016 |
++------------------------------------------+
+
+(1 Min.) 1. Vorstellung der Agenda
+(5 Min.) 2. Sprint Review
+            2.1. Demo des fertigen "Produkts" für Kunden
+            2.2. Product Increments und Product Backlog werden aktualisiert
+(5 Min.) 3. Sprint Retrospektive
+            3.1. Offener Meinungsaustausch innerhalb des Teams
+            3.2. Feedback vom Scrum Master
+(4 Min.) 4. Sonstiges
+--------
+15 Min.
