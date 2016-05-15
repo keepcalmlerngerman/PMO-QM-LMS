@@ -9,7 +9,7 @@
  2.1| ein System mit Hochladensfunktion | Der Dozent kann Lehrinhalte in beliebiger Dateiform hochladen und everytime veröffentlichen.|
  3| Weg der Kommunikation  | Die Webseite sollte eine bequeme Kommunikation zwischen Dozenten und Studenten bieten, die durch E-Mails bzw. die Vorlesungen durchzuführen ist. Die Dozenten kommunizieren untereinander sehr  häufig per Mail bzw. in Einzelgespräch. Hierbei besteht eine Unzufriedenheit in der Kommunikation durch Forum, in der Vorlesung, im Einzelgespräch sowie in Gruppengespräch. | 
  3.1| Synchronismus der Kommunikation und Vorlesung | Studierende können während der Vorlesung auf dieser Webseite über Verstehensproblem melden und der Dozent kann gleich diese Meldung am Bildschirm empfangen.|
- 3.2|
+ 3.2| Kommunikation via Email | Die Webseite zeigen die Email-Adressen der Dozent und Studierenden, damit man gegenseitig per Email benachrichtigen kann.|
  4| Mehr Coaching für Studenten anhand eines Tools | Das Tool muss die Möglichkeit bieten, Studenten individuell zu fördern, zu entwickeln, Lernziele zu setzen, sowie die Planung von Arbeitsabläufen zu erstellen. In diesen Aufgabengebiete ist die technische Unterstüzung zu verbessern. |
  4.1| Ein Tool mit Zielsetzungsfunktion | Studierende können mit dem Tool individuell Lernziel setzen.|
  4.2| Ein Tool mit Lernplansfunktion | Studierende können eigenen Lernplan herstellen.|
