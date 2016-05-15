@@ -23,6 +23,9 @@
  7.2| Termin buchen | Studierende können den Termin wählen, markieren, speichern und erinnert werden.|
  7.2| Parallelität der Buchung vermeiden | Während ein Student auf einer Uhrzeit zugrifft, ist diese Funktion für andere Zugriffe gesperrt.|
  8| App für die Raumreservierung | Die Applikation wird den Dozenten die Möglichkeit bieten, kurzfristig  Räume zu organisieren. Außerden wird sie auch für die Verlegungen oder Ausfälle wg.Krankheit benutzt werden sowie für die Bereistellung von Arbeitsmaterialien. |
- 8.1|
+ 8.1| akzuelle Belegenheit und Verfügbarkeit der Räume zeigen | Man kann gleich informiert werden, welche Räume in welchem Zeitraum zur Verfügung stehen.|
+ 8.2| Raum buchen und Parallelität vermeiden | Dozent kann einem Raum auswählen und während seines Zugriffs sind andere Zugriffe gesperrt.|
+ 8.3| Studenten benachrichtigen | Die App ermöglicht dem Dozenten, nach dem Buchen den Studierenden gleich benachrichtigen.|
+ 8.4| kurze Meldung| Studenen können gleich die Meldung vom Dozent bzgl. Ausfälle etc. am nächsten Device bekommen.|
  9| Das POS ist verbesserungsbedürftig | Für manche Profs ist das WIKIFORMIA schon hilfreich für die Planung der Prüfungen, aber das POS muss dringend verbessert werden. |
  
