@@ -10,6 +10,7 @@
 ### 7. Kritik vom Kunden: 
     * Im Meeting gibt das Team dem Kunden immer den Eindruck :"Was kann man machen?" - so geht nicht.
     * Man muss nicht immer gemeinsames Verständnis haben. Nur wenn es Misverständnis gibt, ist es nötig.
+    * Was kommt am Ende heraus? Wer nimmt welche Rolle? - Das Team soll auf das Ergebnis des Produkts achten.
 ### 8. Vorschläge vom Kunden:
     * eine neue Karte "Kundenstrategie entwickeln" legen
     * Inhaltsdokumente erstellen : Was ist im Endprodukt?
@@ -18,5 +19,7 @@
     * Abgabe1: min. ein screennshot jeder Woche
     * Abgabe2: Statistik pro Woche pro Team pro Person
     * Abgabe3: Wartezeit
-    *
+    * Abgabe4: Regeln---Verbesserungsvorschläge, Phasenänderungen
+    * Verhalten des Teams : zusammen Karten verschieben, über Statistiken diskutieren, über Verbesserungen sprechen
+    
     
