@@ -15,7 +15,7 @@
     * eine neue Karte "Kundenstrategie entwickeln" legen
     * Inhaltsdokumente erstellen : Was ist im Endprodukt?
     * nicht mehr methodische Änderungen machen
-    * Linelöschen
+    * manche Line löschen
 ### 9. Erwartung an dem benoteten Meeting von KANBAN
     * Abgabe1: min. ein screennshot jeder Woche
     * Abgabe2: Statistik pro Woche pro Team pro Person
