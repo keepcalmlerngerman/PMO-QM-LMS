@@ -1,3 +1,13 @@
+Name | Gesamtarbeitszeit|
+-----|------------------|
+HJ | 8H|
+JT||
+KC||
+QS||
+LQ||
+SF||
+Gesamt|8H|
+
  Backlog | Anforderung Kuunde | Realisierung | Qualitätsmanagement | Abnahme durch Kunden |
 ----|--------------|------------|-----------|----------|
 Auswertung Umfrage |   | 3QL  | 3HJ| 
