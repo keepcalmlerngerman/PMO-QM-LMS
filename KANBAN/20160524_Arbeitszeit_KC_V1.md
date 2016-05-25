@@ -1,9 +1,9 @@
  Backlog | Anforderung Kuunde | Realisierung | Qualitätsmanagement | Abnahme durch Kunden |
 ----|--------------|------------|-----------|----------|
-Auswertung Umfrage |   |   | 
+Auswertung Umfrage |   | 3QL  | 
 Interpretation der Resultate |   |  |  |  |
 Formulierung der Anforderung|||||
-Aufteilung in Unteranfragen|||1QL||
+Aufteilung in Unteranfragen|| 3QL |1QL||
 Modellierung der Anforderung  | |3QL | | | 
 Überblick über Möglichkeiten | | | | |
 Prüfung der Umsetzbarkeit | | | | |
