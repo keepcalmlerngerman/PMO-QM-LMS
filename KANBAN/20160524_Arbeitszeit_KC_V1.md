@@ -2,9 +2,9 @@
 ----|--------------|------------|-----------|----------|
 Auswertung Umfrage |   |   | 
 Interpretation der Resultate |   |  |  |  |
-Modelierung der Anforderung  | | | | | 
-Aufteilung in Unteranfragen|||||
 Formulierung der Anforderung|||||
+Aufteilung in Unteranfragen|||1QL||
+Modellierung der Anforderung  | | |3QL | | 
 Überblick über Möglichkeiten | | | | |
 Prüfung der Umsetzbarkeit | | | | |
 Sammeln der Lösungen | | | | |
