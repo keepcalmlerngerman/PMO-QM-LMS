@@ -8,7 +8,7 @@ LQ||
 SF||
 Gesamt|8H|
 
- Backlog | Anforderung Kuunde | Realisierung | Qualitätsmanagement | Abnahme durch Kunden |
+ Backlog | Anforderung Kunde | Realisierung | Qualitätsmanagement | Abnahme durch Kunden |
 ----|--------------|------------|-----------|----------|
 Auswertung Umfrage |   | 3QL  | 3HJ| 
 Interpretation der Resultate |   |  | 2HJ |  |
