@@ -2,7 +2,7 @@
 ----|--------------|------------|-----------|----------|
 Auswertung Umfrage |   | 3QL  | 
 Interpretation der Resultate |   |  |  |  |
-Formulierung der Anforderung|||||
+Formulierung der Anforderung|||3JT||
 Aufteilung in Unteranfragen|| 3QL |1QL||
 Modellierung der Anforderung  | |3QL | | | 
 Überblick über Möglichkeiten | | | | |
