@@ -13,8 +13,8 @@ Gesamt|8H|
 Auswertung Umfrage |   | 3QL  | 3HJ| 
 Interpretation der Resultate |   |  | 2HJ |  |
 Formulierung der Anforderung|||3JT||
-Aufteilung in Unteranfragen|| 3QL |1QL||
-Modellierung der Anforderung  | |3QL | | | 
+Aufteilung in Unteranfragen|| 3QL |1LQ||
+Modellierung der Anforderung  | |3LQ | | | 
 Überblick über Möglichkeiten | | | | |
 Prüfung der Umsetzbarkeit | | | | |
 Sammeln der Lösungen | | | | |
