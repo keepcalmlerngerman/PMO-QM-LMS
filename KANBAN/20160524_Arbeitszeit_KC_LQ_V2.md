@@ -15,7 +15,6 @@ Interpretation der Resultate |   |  | 2HJ |  |
 Formulierung der Anforderung||4KC|3JT||
 Aufteilung in Unteranfragen|| 3QS |1LQ||
 Modellierung der Anforderung  | |3LQ | | | 
-Überblick über Möglichkeiten | | | | |
 Konkretisierung der Auswertung bei Studenten | | | | |
 Konkretisierung der Auswertung bei Dozenten | | | | |
 Konsolidierung der Auswertungen | | | | |
