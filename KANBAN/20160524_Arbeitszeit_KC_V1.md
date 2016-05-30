@@ -10,10 +10,10 @@ Gesamt|8H|
 
  Backlog | Anforderung Kunde | Realisierung | Qualitätsmanagement | Abnahme durch Kunden |
 ----|--------------|------------|-----------|----------|
-Auswertung Umfrage |   | 3QL  | 3HJ| 
+Auswertung Umfrage |   | 3QS  | 3HJ| 
 Interpretation der Resultate |   |  | 2HJ |  |
 Formulierung der Anforderung||4KC|3JT||
-Aufteilung in Unteranfragen|| 3QL |1LQ||
+Aufteilung in Unteranfragen|| 3QS |1LQ||
 Modellierung der Anforderung  | |3LQ | | | 
 Überblick über Möglichkeiten | | | | |
 Prüfung der Umsetzbarkeit | | | | |
