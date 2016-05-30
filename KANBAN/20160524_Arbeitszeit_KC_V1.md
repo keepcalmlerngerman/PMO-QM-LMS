@@ -16,21 +16,12 @@ Formulierung der Anforderung||4KC|3JT||
 Aufteilung in Unteranfragen|| 3QS |1LQ||
 Modellierung der Anforderung  | |3LQ | | | 
 Überblick über Möglichkeiten | | | | |
-Prüfung der Umsetzbarkeit | | | | |
-Sammeln der Lösungen | | | | |
-Analyse der Lösungen | | | | |
-Prüfung der Lösungen | | | | |
-Auswahl der besten Lösung | | | | |
-Darstellung als UML-Diagramm | | | | |
-Erfassung der notwendigen Schritte | | | | |
-Begründung der Schritte | | | | |
-Reihenfolge der Schritte | | | | |
-Grafische Untermalung der Lösung | | | | |
-Erarbeiten einer Gliederung des finalen Dokuments | | | | |
-Einleitung des finalen Dokuments verfassen | | | | |
-Auflisten (un-)realisierbarer Verbesserungen | | | | |
-Finales Dokument verfassen | | | | |
-Erarbeiten Präsentationskonzept | | | | |
-Sammlung Präsentationsmaterial | | | | |
-Postererstellung | | | | |
-Standvorbereitung | | | | |
+Konkretisierung der Auswertung bei Studenten | | | | |
+Konkretisierung der Auswertung bei Dozenten | | | | |
+Konsolidierung der Auswertungen | | | | |
+Ermittlung der Erfolgsfaktoren in der Kommunikation bei Dozenten | | | | |
+Ermittlung der Erfolgsfaktoren in der Kommunikation bei Studenten | | | | |
+Anforderungen an LMS formulieren | | | | |
+Empfehlung aussprechen | | | | |
+Abschlussdokument finalisieren | | | | |
+Präsentation vorbereiten | | | | |
