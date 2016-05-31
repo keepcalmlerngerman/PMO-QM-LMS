@@ -1,6 +1,6 @@
 Name | Gesamtarbeitszeit|
 -----|------------------|
-HJ | 8H|
+HJ | 15H|
 JT||
 KC||
 QS||
@@ -14,13 +14,13 @@ Auswertung Umfrage |   | 3QS  | 3HJ|
 Interpretation der Resultate |   |  | 2HJ |  |
 Formulierung der Anforderung||4KC|3JT||
 Aufteilung in Unteranfragen|| 3QS |1LQ||
-Modellierung der Anforderung  | |3LQ | | | 
-Konkretisierung der Auswertung bei Studenten | | | | |
-Konkretisierung der Auswertung bei Dozenten | | | | |
-Konsolidierung der Auswertungen | | | | |
-Ermittlung der Erfolgsfaktoren in der Kommunikation bei Dozenten | | | | |
-Ermittlung der Erfolgsfaktoren in der Kommunikation bei Studenten | | | | |
-Anforderungen an LMS formulieren | | | | |
-Empfehlung aussprechen | | | | |
+Modellierung der Anforderung  | |3LQ | |-| 
+Konkretisierung der Auswertung bei Studenten | | | |-|
+Konkretisierung der Auswertung bei Dozenten | | | |-|
+Konsolidierung der Auswertungen |1HJ |4HJ | |-|
+Ermittlung der Erfolgsfaktoren in der Kommunikation bei Dozenten | | | |-|
+Ermittlung der Erfolgsfaktoren in der Kommunikation bei Studenten | | | |-|
+Anforderungen an LMS formulieren | | | |-|
+Empfehlung aussprechen | | | |-|
 Abschlussdokument finalisieren | | | | |
-Präsentation vorbereiten | | | | |
+Präsentation vorbereiten | | | |-|
