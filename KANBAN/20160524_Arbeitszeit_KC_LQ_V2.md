@@ -4,9 +4,9 @@ HJ | 17H| 4H|6H |7H| |
 JT| | | | | |
 KC| | | | | |
 QS| | | | | |
-LQ| 11H| 1H| 2H|8H | |
+LQ| 12H| 1H| 3H|8H | |
 SF| | | | | |
-Gesamt|28H| | | | |
+Gesamt|29H| | | | |
 
  Backlog | Anforderung Kunde | Realisierung | Qualitätsmanagement | ~~Abnahme durch Kunden~~ | Start| Ende|Wartezeit|
 ---------|-------------------|--------------|---------------------|--------------------------|------|-----|---------|
