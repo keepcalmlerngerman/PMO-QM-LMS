@@ -1,16 +1,23 @@
-Name | Gesamtarbeitszeit|W1|W2|W3|W4|%prd.
------|------------------|---|---|---|---|
+
+
+Maximale Durchlaufzeit einer Karte: 310 Stunden
+
+Durchschnittliche Durchlaufzeit einer Karte: 120 Stunden
+
+Summe der Wartezeiten: 0 Stunden
+
+
+Name | Gesamtarbeitszeit|W1|W2|W3|W4|prod.|
+-----|------------------|---|---|---|---|-----|
 HJ | 17H| 4H|6H |7H| |82,35 |
 JT|11H |1H |3H |7H | |72,73 |
 KC| 14H | 6H | 4H | 4H | |78,57 |
 QS| 10H| 3H| 5H|2H | |70,00 |
 LQ| 12H| 1H| 3H|8H | |75,00 |
 SF|12H | 2H|3H |7H | |75,00 |
-Gesamt|76H| | | | | |76,32|
+Gesamt|76H| | | | |76,32 |
 
-Maximale Durchlaufzeit einer Karte: 310 Stunden
-Duechschnittliche Durchlaufzeit einer Karte: 120 Stunden
-Summe der Wartezeiten: 0 Stunden
+
 
  Backlog | Anforderung Kunde | Realisierung | Qualitätsmanagement | ~~Abnahme durch Kunden~~ | Start| Ende|Wartezeit|
 ---------|-------------------|--------------|---------------------|--------------------------|------|-----|---------|
