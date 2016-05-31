@@ -1,12 +1,12 @@
-Name | Gesamtarbeitszeit|
------|------------------|
-HJ | 15H|
-JT||
-KC||
-QS||
-LQ||
-SF||
-Gesamt|8H|
+Name | Gesamtarbeitszeit|W1|W2|W3|W4|
+-----|------------------|---|---|---|---|
+HJ | 17H| 4H|6H |7H| |
+JT| | | | | |
+KC| | | | | |
+QS| | | | | |
+LQ| | | | | |
+SF| | | | | |
+Gesamt|17H| | | | |
 
  Backlog | Anforderung Kunde | Realisierung | Qualitätsmanagement | Abnahme durch Kunden |
 ----|--------------|------------|-----------|----------|
@@ -17,9 +17,9 @@ Aufteilung in Unteranfragen|| 3QS |1LQ||
 Modellierung der Anforderung  | |3LQ | |-| 
 Konkretisierung der Auswertung bei Studenten | | | |-|
 Konkretisierung der Auswertung bei Dozenten | | | |-|
-Konsolidierung der Auswertungen |1HJ |4HJ | |-|
+Konsolidierung der Auswertungen |1HJ |5HJ | |-|
 Ermittlung der Erfolgsfaktoren in der Kommunikation bei Dozenten | | | |-|
-Ermittlung der Erfolgsfaktoren in der Kommunikation bei Studenten | | | |-|
+Ermittlung der Erfolgsfaktoren in der Kommunikation bei Studenten |3H| | |-|
 Anforderungen an LMS formulieren | | | |-|
 Empfehlung aussprechen | | | |-|
 Abschlussdokument finalisieren | | | | |
