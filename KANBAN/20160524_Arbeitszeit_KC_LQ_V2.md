@@ -13,7 +13,7 @@ Gesamt|28H| | | | |
 Auswertung Umfrage | 2HJ   | 3QS     | 3HJ|  |10.05.| | 0|
 Interpretation der Resultate |   |  | 2HJ |  | | |0|
 Formulierung der Anforderung| |4KC|3JT| | | |0|
-Aufteilung in Unteranfragen| | 3QS |1LQ| | | |0|
+Aufteilung in Unteranfragen| | 3QS |1LQ| | | 17.05.|0|
 Modellierung der Anforderung  | |3LQ | |-|16.05. |19.05 | 0|
 Konkretisierung der Auswertung bei Studenten | | 8LQ| |-|26.05. |30.05. |0|
 Konkretisierung der Auswertung bei Dozenten | | | |-| | |0|
