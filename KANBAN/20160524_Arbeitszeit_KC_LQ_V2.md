@@ -6,7 +6,7 @@ KC| 14H | 6H | 4H | 4H | |
 QS| 10H| 3H| 5H|2H | |
 LQ| 12H| 1H| 3H|8H | |
 SF|12H | 2H|3H |7H | |
-Gesamt|64H| | | | |
+Gesamt|76H| | | | |
 
  Backlog | Anforderung Kunde | Realisierung | Qualitätsmanagement | ~~Abnahme durch Kunden~~ | Start| Ende|Wartezeit|
 ---------|-------------------|--------------|---------------------|--------------------------|------|-----|---------|
