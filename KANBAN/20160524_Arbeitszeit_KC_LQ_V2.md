@@ -4,7 +4,7 @@ HJ | 17H| 4H|6H |7H| |
 JT| | | | | |
 KC| | | | | |
 QS| | | | | |
-LQ| | | | | |
+LQ| 12H| 1H| 2H|8H | |
 SF| | | | | |
 Gesamt|17H| | | | |
 
@@ -14,8 +14,8 @@ Auswertung Umfrage | 2HJ   | 3QS     | 3HJ|  |10.05.| | 0|
 Interpretation der Resultate |   |  | 2HJ |  | | |0|
 Formulierung der Anforderung| |4KC|3JT| | | |0|
 Aufteilung in Unteranfragen| | 3QS |1LQ| | | |0|
-Modellierung der Anforderung  | |3LQ | |-| | | 0|
-Konkretisierung der Auswertung bei Studenten | | | |-| | |0|
+Modellierung der Anforderung  | |3LQ | |-|16.05. |19.05 | 0|
+Konkretisierung der Auswertung bei Studenten | | 8LQ| |-|26.05. |30.05. |0|
 Konkretisierung der Auswertung bei Dozenten | | | |-| | |0|
 Konsolidierung der Auswertungen |1HJ |5HJ | |-|30.05.| |0|
 Ermittlung der Erfolgsfaktoren in der Kommunikation bei Dozenten | | | |-| | |0|
