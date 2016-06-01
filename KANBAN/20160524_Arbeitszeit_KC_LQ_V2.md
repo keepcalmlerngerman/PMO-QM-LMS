@@ -26,7 +26,7 @@ Interpretation der Resultate |   |  | 2HJ |  | | |0|
 Formulierung der Anforderung| |6KC|3JT| | 12.05.16 | 14.05.16 |0|
 Aufteilung in Unteranfragen| | 5QS |1LQ| | 15.05.| 17.05.|0|
 Modellierung der Anforderung  | |3LQ | |-|16.05. |19.05 | 0|
-Konkretisierung der Auswertung bei Studenten | | 8LQ| |-|26.05. |30.05. |0|
+Konkretisierung der Auswertung bei Studenten | | 8LQ| 1,5KC |-|26.05. |30.05. |0|
 Konkretisierung der Auswertung bei Dozenten |0,1JT |7JT | |-|26.05 | |0|
 Konsolidierung der Auswertungen |1HJ |5HJ | |-|30.05.| |0|
 Ermittlung der Erfolgsfaktoren in der Kommunikation bei Dozenten | 2QS| | |-|30.05 | |0|
