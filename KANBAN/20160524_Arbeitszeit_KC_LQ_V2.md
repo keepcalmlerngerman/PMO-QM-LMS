@@ -31,7 +31,7 @@ Konkretisierung der Auswertung bei Dozenten |0,1JT |7JT | |-|26.05 | |0|
 Konsolidierung der Auswertungen |1HJ |5HJ | |-|30.05.| |0|
 Ermittlung der Erfolgsfaktoren in der Kommunikation bei Dozenten | 2QS|25QS | |-|30.05 | |0|
 Ermittlung der Erfolgsfaktoren in der Kommunikation bei Studenten |3H| | |-|31.05.| |0|
-Anforderungen an LMS formulieren | | | |-| | |0|
+Anforderungen an LMS formulieren | | 2KC | |-| 02.06 | |0|
 Empfehlung aussprechen | | | |-| | |0|
 Abschlussdokument finalisieren | | | | | | |0|
 Präsentation vorbereiten | | | |-| | |0|
